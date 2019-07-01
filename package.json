@@ -1,0 +1,21 @@
+{
+  "name": "restful-site",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ./src/index"
+  },
+  "author": "Ayrton Teshima, Programador a Bordo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
